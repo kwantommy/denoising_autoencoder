@@ -1,6 +1,6 @@
 # Denoising Autoencoder 
 
-Denoising autoencoder implemented with skip connections between encoder and decoder. 
+Denoising autoencoder implemented with skip connections between encoder and decoder. Trained using the dogs and cats dataset (dogs only) from *[Kaggle](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
 
 Influences:  
 * [Resnet](https://arxiv.org/abs/1512.03385)
