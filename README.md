@@ -1,0 +1,12 @@
+# Denoising Autoencoder 
+
+Denoising autoencoder implemented with skip connections between encoder and decoder. 
+
+Influences:  
+* [Resnet](https://arxiv.org/abs/1512.03385)
+* [Keras Blog](https://blog.keras.io/building-autoencoders-in-keras.html)
+
+## Examples of Denoising (2 epochs):
+
+
+
