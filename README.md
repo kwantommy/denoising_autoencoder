@@ -8,7 +8,7 @@ Influences:
 
 ## Examples of Denoising (2 epochs):
 
-[[https://github.com/tommythetomato/denoising_autoencoder/blob/master/example1.png|alt = denoise1]]
+![Example1](https://github.com/tommythetomato/denoising_autoencoder/blob/master/example1.png)
 
-[[https://github.com/tommythetomato/denoising_autoencoder/blob/master/example2.png|alt = denoise2]]
+![Example2](https://github.com/tommythetomato/denoising_autoencoder/blob/master/example2.png)
 
