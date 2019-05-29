@@ -1,6 +1,6 @@
 # Denoising Autoencoder 
 
-Denoising autoencoder implemented with skip connections between encoder and decoder. Trained using the dogs and cats dataset (dogs only) from *[Kaggle](https://www.microsoft.com/en-us/download/details.aspx?id=54765).
+Denoising autoencoder implemented with skip connections between encoder and decoder. Trained using the dogs and cats dataset (dogs only) from [Kaggle](https://www.microsoft.com/en-us/download/details.aspx?id=54765). 
 
 Influences:  
 * [Resnet](https://arxiv.org/abs/1512.03385)
@@ -11,6 +11,8 @@ Influences:
 ![Example1](https://github.com/tommythetomato/denoising_autoencoder/blob/master/example1.png)
 
 ![Example2](https://github.com/tommythetomato/denoising_autoencoder/blob/master/example2.png)
+
+Noise simulated using numpy.random.
 
 ## Architecture can be used for inverse halftoning as well. Example of inverse halftoning (2 epochs): 
 
