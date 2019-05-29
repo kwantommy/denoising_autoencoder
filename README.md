@@ -8,15 +8,19 @@ Influences:
 
 ## Examples of Denoising (2 epochs):
 
-![Example1](https://github.com/tommythetomato/denoising_autoencoder/blob/master/example1.png)
+![Example1](https://github.com/tommythetomato/denoising_autoencoder/blob/master/examples/example1.png)
 
-![Example2](https://github.com/tommythetomato/denoising_autoencoder/blob/master/example2.png)
+![Example2](https://github.com/tommythetomato/denoising_autoencoder/blob/master/examples/example2.png)
 
 Noise simulated using numpy.random.
 
 ## Architecture can be used for inverse halftoning as well. Example of inverse halftoning (2 epochs): 
 
-![Example3](https://github.com/tommythetomato/denoising_autoencoder/blob/master/example3.png)
+![Example3](https://github.com/tommythetomato/denoising_autoencoder/blob/master/examples/example3.png)
 
 Halftones versions of the original image were created in Matlab. 
+
+## Architecture:
+
+![Example4](https://github.com/tommythetomato/denoising_autoencoder/blob/master/examples/architecture.png)
 
