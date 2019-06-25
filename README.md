@@ -6,11 +6,11 @@ Influences:
 * [Resnet](https://arxiv.org/abs/1512.03385)
 * [Keras Blog](https://blog.keras.io/building-autoencoders-in-keras.html)
 
-## Examples of Denoising (2 epochs):
+## Examples of Denoising (5 epochs with roughly 400,000 trainable parameters):
 
-![Example1](https://github.com/tommythetomato/denoising_autoencoder/blob/master/examples%20/example1.png)
+![Example1](https://github.com/tommythetomato/denoising_autoencoder/blob/master/examples/result1.png)
 
-![Example2](https://github.com/tommythetomato/denoising_autoencoder/blob/master/examples%20/example2.png)
+![Example2](https://github.com/tommythetomato/denoising_autoencoder/blob/master/examples/result2.png)
 
 Noise simulated using numpy.random.
 
